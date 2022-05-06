@@ -1,6 +1,6 @@
 # mlflow_learn
 
-- run the requirements.txt
+- run the conda.yaml
 - include the necessary modules needed for the project 
 - before executing the simple_ml_program.py, in terminal, execute mlflow ui
 - copy the url and paste it on browser. 
